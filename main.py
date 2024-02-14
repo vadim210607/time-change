@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 # Шлях до папки, де знаходяться файли
-folder_path = "C:\polin\Polina_Google_01.02.2024"
+folder_path = "F:\999 backup\PHOTO\Vadim\Photos from 2004"
 trash_json = []
 
 
